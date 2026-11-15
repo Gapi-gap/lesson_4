@@ -1,0 +1,19 @@
+# Mac-specific files
+.DS_Store
+._*
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Project configuration for IDEs
+.pro.user
+
+# Log files
+*.log
+
+build/
+.qtcreator/
